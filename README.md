@@ -2,7 +2,7 @@
 
 Transform text into high-quality audio with Azure Speech, IBM Watson, or Google Gemini TTS. Download audio in multiple formats with full control over voice, speed, language, and audio quality.
 
-#### [Azure AI Speech](https://azure.microsoft.com/en-us/products/ai-services/ai-speech)
+#### [Azure Speech](https://azure.microsoft.com/en-us/products/ai-foundry/tools/speech)
 #### [IBM Watson TTS](https://www.ibm.com/demos/live/tts-demo/self-service/home)
 #### [Google Gemini TTS](https://www.gstatic.com/cloud-site-ux/text_to_speech/text_to_speech.min.html)
 
