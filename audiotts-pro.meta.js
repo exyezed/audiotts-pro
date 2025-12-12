@@ -1,8 +1,8 @@
 // ==UserScript==
 // @name            AudioTTS Pro | Text-to-Speech Generator & Audio Downloader
-// @description     Text-to-Speech generator and audio downloader supporting Azure AI Speech, IBM Watson, and Google Gemini TTS.
+// @description     Text-to-Speech generator and audio downloader supporting Azure Speech, IBM Watson, and Google Gemini TTS.
 // @namespace       https://exyezed.cc
-// @version         1.0.1
+// @version         1.0.2
 // @author          exyezed
 // @license         MIT
 // @supportURL      https://exyezed.cc

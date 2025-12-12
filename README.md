@@ -1,6 +1,6 @@
 [![GitHub All Releases](https://img.shields.io/github/downloads/exyezed/audiotts-pro/total?style=for-the-badge)](https://github.com/exyezed/audiotts-pro/releases)
 
-Transform text into high-quality audio with Azure AI Speech, IBM Watson, or Google Gemini TTS. Download audio in multiple formats with full control over voice, speed, language, and audio quality.
+Transform text into high-quality audio with Azure Speech, IBM Watson, or Google Gemini TTS. Download audio in multiple formats with full control over voice, speed, language, and audio quality.
 
 #### [Azure AI Speech](https://azure.microsoft.com/en-us/products/ai-services/ai-speech)
 #### [IBM Watson TTS](https://www.ibm.com/demos/live/tts-demo/self-service/home)
